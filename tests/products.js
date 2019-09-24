@@ -2,9 +2,7 @@ var voluntaryLife = {
   name: 'SunLife Voluntary Life',
   vendor: 'Sunlife US',
   type: 'volLife',
-  employerContribution: {
-    mode: 'percentage', contribution: 10,
-  },
+  employerContribution: { mode: 'percentage', contribution: 10 },
   cost: { costDivisor: 1000, price: 0.35 },
 }
 
